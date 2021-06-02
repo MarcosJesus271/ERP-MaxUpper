@@ -41,5 +41,11 @@ namespace MaxUpper
         {
 
         }
+
+        private void guna2Button1_Click(object sender, EventArgs e)
+        {
+            Loading_load = new Loading();
+            _Load.Show();
+        }
     }
 }

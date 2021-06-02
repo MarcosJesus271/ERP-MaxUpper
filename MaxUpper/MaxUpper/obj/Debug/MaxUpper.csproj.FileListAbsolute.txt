@@ -11,3 +11,15 @@ C:\Users\Marcos_Jesus\source\repos\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.C
 C:\Users\Marcos_Jesus\source\repos\MaxUpper\MaxUpper\obj\Debug\MaxUpper.exe
 C:\Users\Marcos_Jesus\source\repos\MaxUpper\MaxUpper\obj\Debug\MaxUpper.pdb
 C:\Users\Marcos_Jesus\source\repos\MaxUpper\MaxUpper\bin\Debug\Guna.UI.dll
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\bin\Debug\MaxUpper.exe.config
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\bin\Debug\MaxUpper.exe
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\bin\Debug\MaxUpper.pdb
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.AssemblyReference.cache
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Form1.resources
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Properties.Resources.resources
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.GenerateResource.cache
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.CoreCompileInputs.cache
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.CopyComplete
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.exe
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.pdb
+C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Loading.resources
