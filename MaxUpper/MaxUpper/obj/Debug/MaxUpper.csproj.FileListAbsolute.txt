@@ -23,3 +23,16 @@ C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUppe
 C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.exe
 C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.pdb
 C:\Users\Marcos_Jesus\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Loading.resources
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\bin\Debug\MaxUpper.exe.config
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\bin\Debug\MaxUpper.exe
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\bin\Debug\MaxUpper.pdb
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.AssemblyReference.cache
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Form1.resources
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Loading.resources
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Properties.Resources.resources
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.GenerateResource.cache
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.csproj.CopyComplete
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.exe
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.pdb
+C:\Users\vinic\Documents\GitHub\Projeto_C_Sharp_MaxUpper\MaxUpper\MaxUpper\obj\Debug\MaxUpper.Principal.resources

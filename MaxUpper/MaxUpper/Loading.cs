@@ -44,6 +44,10 @@ namespace MaxUpper
             {
                 timer1.Stop();
 
+                Principal p = new Principal();
+                p.Show();
+                this.Hide();
+
             }
             else 
             {
@@ -57,6 +61,7 @@ namespace MaxUpper
         {
             guna2ShadowForm1.SetShadowForm(this);
             timer1.Start();
+            
         }
 
         private void guna2PictureBox1_Click(object sender, EventArgs e)

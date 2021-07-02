@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace MaxUpper
 {
     public partial class Form1 : Form
     {
+        Thread t1;
         public Form1()
         {
             InitializeComponent();
@@ -45,7 +47,9 @@ namespace MaxUpper
         private void guna2Button1_Click(object sender, EventArgs e)
         {
              Loading _load = new Loading();
-            _load.Show();            
+            _load.Show();
+            
+
         }
     }
 }
