@@ -27,14 +27,14 @@ Com o Max Upper você ganha super poderes em seu negócio!
 
 <h2>Viu como é fácil gerenciar seu negócio?</h2>
 
-![Logo do Markdown](img/prints/home.png)
+![Logo do Markdown](img/prints/Home_01.png)
 
 <p></p>
 
 # Max Upper é feito para você
 Com seu sistema de loguin possibilita que cada usuario tenha sua base de dados para acessa-lo. Basta se registrar e efetuar o login. 
 
-![Logo do Markdown](img/prints/Login-area.png)
+![Logo do Markdown](img/prints/Login_area.png)
 
 <p></p>
 
