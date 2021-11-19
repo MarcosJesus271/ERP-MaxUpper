@@ -53,6 +53,7 @@ namespace MaxUpper
             this.guna2ShadowForm1 = new Guna.UI2.WinForms.Guna2ShadowForm(this.components);
             this.guna2DragControl1 = new Guna.UI2.WinForms.Guna2DragControl(this.components);
             this.guna2Button2 = new Guna.UI2.WinForms.Guna2Button();
+            this.lblConnStatus = new System.Windows.Forms.Label();
             this.guna2Panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox1)).BeginInit();
@@ -194,6 +195,7 @@ namespace MaxUpper
             this.guna2TextBox1.Size = new System.Drawing.Size(224, 22);
             this.guna2TextBox1.TabIndex = 2;
             this.guna2TextBox1.TextOffset = new System.Drawing.Point(8, 0);
+            this.guna2TextBox1.TextChanged += new System.EventHandler(this.guna2TextBox1_TextChanged);
             // 
             // guna2TextBox2
             // 
@@ -346,12 +348,25 @@ namespace MaxUpper
             this.guna2Button2.Size = new System.Drawing.Size(102, 33);
             this.guna2Button2.TabIndex = 13;
             this.guna2Button2.Text = "Registre - se";
+         
+            // 
+            // lblConnStatus
+            // 
+            this.lblConnStatus.AutoSize = true;
+            this.lblConnStatus.ForeColor = System.Drawing.Color.Green;
+            this.lblConnStatus.Location = new System.Drawing.Point(82, 445);
+            this.lblConnStatus.Name = "lblConnStatus";
+            this.lblConnStatus.Size = new System.Drawing.Size(58, 13);
+            this.lblConnStatus.TabIndex = 15;
+            this.lblConnStatus.Text = "Conexão...";
+            this.lblConnStatus.Click += new System.EventHandler(this.label8_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(850, 475);
+            this.Controls.Add(this.lblConnStatus);
             this.Controls.Add(this.guna2Button2);
             this.Controls.Add(this.guna2Panel3);
             this.Controls.Add(this.guna2Panel2);
@@ -406,6 +421,7 @@ namespace MaxUpper
         private Guna.UI2.WinForms.Guna2ShadowForm guna2ShadowForm1;
         private Guna.UI2.WinForms.Guna2DragControl guna2DragControl1;
         private Guna.UI2.WinForms.Guna2Button guna2Button2;
+        private System.Windows.Forms.Label lblConnStatus;
     }
 }
 
