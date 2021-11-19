@@ -40,5 +40,5 @@ Com seu sistema de loguin possibilita que cada usuario tenha sua base de dados p
 <p></p>
 
  # Atenção
- Ainda estamos em desenvolvimento e infelizmente não temos um prazo para concluir todo o projeto! Pedimos paciência pois já estamos trabalhando nisso.
+ Ainda estamos em desenvolvimento e infelizmente não temos um prazo para concluir todo o projeto! Pedimos paciência pois já estamos trabalhando nisso...
 
