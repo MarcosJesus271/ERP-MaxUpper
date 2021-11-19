@@ -32,7 +32,7 @@ Com o Max Upper você ganha super poderes em seu negócio!
 <p></p>
 
 # Max Upper é feito para você
-Com seu sistema de loguin possibilita que cada usuario tenha sua base de dados para acessa-lo. Basta se registrar e efetuar o login. 
+Com seu sistema de login possibilita que cada usuario tenha sua base de dados para acessa-lo. Basta se registrar e efetuar o login. 
 
 ![Area de login](Img/prints/Login_area.png)
 
